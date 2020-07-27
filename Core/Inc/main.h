@@ -189,12 +189,16 @@ void Error_Handler(void);
 #define OLED_DC_GPIO_Port GPIOA
 #define OLED_CS_Pin GPIO_PIN_6
 #define OLED_CS_GPIO_Port GPIOA
+#define OLED_D4_Pin GPIO_PIN_4
+#define OLED_D4_GPIO_Port GPIOC
 #define OLED_D5_Pin GPIO_PIN_5
 #define OLED_D5_GPIO_Port GPIOC
 #define OLED_WR_Pin GPIO_PIN_0
 #define OLED_WR_GPIO_Port GPIOB
 #define OLED_RD_Pin GPIO_PIN_1
 #define OLED_RD_GPIO_Port GPIOB
+#define OLED_PW_Pin GPIO_PIN_12
+#define OLED_PW_GPIO_Port GPIOB
 #define OLED_D6_Pin GPIO_PIN_6
 #define OLED_D6_GPIO_Port GPIOC
 #define OLED_D7_Pin GPIO_PIN_7

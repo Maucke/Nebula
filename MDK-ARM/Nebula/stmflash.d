@@ -10,12 +10,12 @@ nebula\stmflash.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 nebula\stmflash.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
 nebula\stmflash.o: ../Drivers/CMSIS/Include/core_cm3.h
 nebula\stmflash.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
-nebula\stmflash.o: ../Drivers/CMSIS/Include/cmsis_version.h
-nebula\stmflash.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nebula\stmflash.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 nebula\stmflash.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nebula\stmflash.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 nebula\stmflash.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 nebula\stmflash.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-nebula\stmflash.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+nebula\stmflash.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
 nebula\stmflash.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 nebula\stmflash.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 nebula\stmflash.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
